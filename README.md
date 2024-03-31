@@ -23,8 +23,7 @@ If you use this code please cite our paper:
 
 ```bibtex
 
-@article
-  {Ahmadianshalchi_Belakaria_Doppa_2024, 
+  @article{Ahmadianshalchi_Belakaria_Doppa_2024, 
   title={Pareto Front-Diverse Batch Multi-Objective Bayesian Optimization}, 
   volume={38}, 
   url={https://ojs.aaai.org/index.php/AAAI/article/view/28951}, 
